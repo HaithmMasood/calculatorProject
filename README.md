@@ -19,13 +19,13 @@ A simple calculator built with React 18 and rendered directly in the browser usi
    git init
    git add .
    git commit -m "Initial commit: React calculator"
-   git branch -M main
+   git branch -M master
    ```
 2. Create an empty GitHub repo (via UI) and copy its URL (e.g. `https://github.com/<you>/<repo>.git`).
 3. Add the remote and push:
    ```bash
    git remote add origin <REPO_URL>
-   git push -u origin main
+   git push -u origin master
    ```
 
 ## Notes
